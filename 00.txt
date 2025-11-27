@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 version1
 version2
 version3
+=======
+version1
+>>>>>>> parent of ea38a98 (version 2)
